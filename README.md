@@ -43,13 +43,6 @@ You can have multiple attachments; they must in `images-caption` class and `gall
     </div>
 </div>
 
-<div id="modal-box" class="modal-box">
-    <span class="close">&times;</span>
-    <img class="modal-content">
-    <div id="caption"></div>
-    <div id="demo-img"></div>
-</div>
-
 <script src="ts/gallery.js"></script>
 <script>
     new Gallery();
