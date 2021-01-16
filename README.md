@@ -5,9 +5,9 @@ use this attribute for using library:
 if you have different gallery; you must defining different `gallery-title` attribute for img tag
 you can description for every img tag with use `gallery-desc` attribute
 
-your tag of gallery must in `gallery-box` class.
+parent div's class must have `gallery-box` .
 
-You can have multiple attachments; they must in `images-caption` class and `gallery-title` attribute be similar to the original photo.
+You can have multiple attachments; they must have class'name: `images-caption`  and `gallery-title` attribute be similar to the original photo.
 
 > link gallery.css in head tag 
 
